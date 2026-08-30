@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AgentAssure",
+      "hasCanvas": false,
+      "bodyTextLen": 2853,
+      "bodyTextHash": "cc0a637d590a53cdfe6e36f2bb205c85d0b2ec26df714c979d75b3eeb8d9db52",
+      "bodyTextPrefix": "AgentAssure HARBOUR TRUST Portfolio Findings Scenarios Policies ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AgentAssure",
+      "hasCanvas": false,
+      "bodyTextLen": 2726,
+      "bodyTextHash": "877642baec6e52eb3604ece9c303cff9d7e45ae4f4809a9fbc6cf56792c78716",
+      "bodyTextPrefix": "AgentAssure HARBOUR TRUST HARBOUR TRUST BANK LIMITED · HARBOUR A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
